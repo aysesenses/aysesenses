@@ -3,6 +3,7 @@
  
 - :nerd_face: I’m currently learning Kotlin
 - ✍  I write blogs on Medium
+- :heavy_heart_exclamation: I love to code and learn all about it
 - :rofl:  Pronouns: She/Her
 - 💬 Ask me about ... Anything
 
