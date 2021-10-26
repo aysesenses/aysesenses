@@ -2,6 +2,7 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
  
 - :nerd_face: I’m currently learning Kotlin
+- 🤔 I'm interested in Android App Development
 - ✍  I write blogs on Medium
 - :heavy_heart_exclamation: I love to code and learn all about it
 - :rofl:  Pronouns: She/Her
@@ -25,6 +26,7 @@
 
 [<img align="left" alt="Android"  width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Kotlin" width="30" height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
+[<img align="left" alt="Firebase" width="30" height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
 [<img align="left" alt="GitHub" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>][git]
 [<img align="left" alt="Git" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 <br />
@@ -32,6 +34,8 @@
 [android]: https://www.android.com/
 [kotlin]: https://kotlinlang.org
 [git]: https://git-scm.com/
+[firebase]: https://firebase.google.com/
+
 
 <br />
 
