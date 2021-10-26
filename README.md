@@ -1,5 +1,5 @@
 ### Hello World, I'm Ayşe 👋
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
  
 - :nerd_face: I’m currently learning Kotlin
 - 🤔 I'm interested in Android App Development
