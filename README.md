@@ -1,7 +1,7 @@
 ### Hello World, I'm Ayşe 👋
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="320" />
  
-- :nerd_face: I’m currently learning Kotlin
+- :nerd_face: I’m currently learning Kotlin and Dart
 - 🤔 I'm interested in Android App Development
 - ✍  I write blogs on Medium
 - :heavy_heart_exclamation: I love to code and learn all about it
